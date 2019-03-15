@@ -1,0 +1,5 @@
+(0, '0.037*"card" + 0.026*"regard" + 0.017*"event" + 0.015*"hello" + 0.014*"kind"')
+(1, '0.026*"user" + 0.021*"send" + 0.019*"regard" + 0.018*"chang" + 0.016*"hello"')
+(2, '0.031*"send" + 0.028*"regard" + 0.027*"hello" + 0.023*"card" + 0.021*"work"')
+(3, '0.034*"card" + 0.028*"regard" + 0.026*"floor" + 0.023*"hello" + 0.022*"access"')
+(4, '0.022*"send" + 0.020*"hello" + 0.019*"visitor" + 0.016*"issu" + 0.015*"leav"')
